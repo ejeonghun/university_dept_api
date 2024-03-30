@@ -39,7 +39,7 @@ GET https://univapi.lunaweb.dev/api/univ/dept?univ_id=234
 ![image](https://github.com/ejeonghun/university_dept_api/assets/41509711/1156a85c-51c1-4125-acf4-7924b014e1ca)
 > univInfo : 학교 정보 , deptId : 학과 코드 , univId : 학교 코드 , deptName : 학과 이름
 
-#### [API 명세서](https://https://univapi.lunaweb.dev/swagger-ui/index.html)
+#### [API 명세서](https://univapi.lunaweb.dev/swagger-ui/index.html)
 
 
 ## DB ERD
